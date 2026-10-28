@@ -1,6 +1,6 @@
 # Unit Conversion API (.NET 8)
 
-Run simple ASP.NET Core Web API following a controller, interface, and service pattern.
+Below is simple ASP.NET Core Web API following a controller, interface, and service pattern followed by dependency Injection.
 
 ## Requirements
 - .NET 8 SDK
